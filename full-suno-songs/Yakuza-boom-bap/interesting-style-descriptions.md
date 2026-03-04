@@ -1,3 +1,9 @@
+**v5 Model:**
+- My other fav (but no traditional Japanese/Chineae nor chanber music or Taiko drums:
+  ```
+  Open to a long intro grainy damaged samples of tale deck reel-to-reel retro quality vocal snippets stitched together poorly as Xau underwater flutes bubble. The soundscape erupts in an apocalyptic collision where Feudal Edo meets Brooklyn’s Biggy pavement. A light RZA production slices through lush, syncopated layers of Koto strings, anchored by a brutal, heavy synth riff that sounds like grinding mechanical gears. The mastering is pristine Dolby THX, allowing every hardcore gunshot and wood-block snap to swell with moderate melancholic weight. Danny glides with a major-key Biggie flow over minor-mode traditional melodies, while Samuel’s kinetic chaos provides a brutal counterpoint. This is a gritty, syncopated nightmare—a hardcore fusion where the swish of a Shaolin robe meets the metallic rattle of a SPAS-12 shotgun. The atmosphere is lush yet lethal, transitioning from silly Foley comedy to a dark, apocalyptic studio masterpiece. This track is contrast mystery assault on the senses
+  ```
+
 **V4.5+ Model:**
 - Hardcore with sick breakbeats:
   ```
